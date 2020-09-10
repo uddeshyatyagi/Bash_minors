@@ -1,5 +1,5 @@
 #!/bin/bash
-#This will generate random password
+#This will generate random passwords
 
 echo "Enter the length of the password to be generated"
 read pass_length
